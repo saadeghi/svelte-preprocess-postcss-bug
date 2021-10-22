@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "^1.0.0-next.188",
+    "svelte": "^3.44.0",
+    "postcss": "^8.3.11",
+    "postcss-load-config": "^3.1.0",
+    "svelte-preprocess": "^4.9.8",
+    "tailwindcss": "^2.2.17"
+  }
+}
